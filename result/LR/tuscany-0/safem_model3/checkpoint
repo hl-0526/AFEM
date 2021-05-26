@@ -1,0 +1,2 @@
+model_checkpoint_path: "/doc/hl/LR/CAFEM-master13/src/out/tuscany-0/safem_model3/model.ckpt"
+all_model_checkpoint_paths: "/doc/hl/LR/CAFEM-master13/src/out/tuscany-0/safem_model3/model.ckpt"

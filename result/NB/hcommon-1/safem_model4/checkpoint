@@ -1,0 +1,2 @@
+model_checkpoint_path: "/doc/hl/NB/CAFEM-master12/src/out/hcommon-1/safem_model4/model.ckpt"
+all_model_checkpoint_paths: "/doc/hl/NB/CAFEM-master12/src/out/hcommon-1/safem_model4/model.ckpt"

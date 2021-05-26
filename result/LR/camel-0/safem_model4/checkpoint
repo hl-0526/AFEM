@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/FEL\345\256\236\351\252\214/1231/LR/\344\273\243\347\240\201/CAFEM-master4/src/out/camel-0/safem_model4/model.ckpt"
+all_model_checkpoint_paths: "D:/FEL\345\256\236\351\252\214/1231/LR/\344\273\243\347\240\201/CAFEM-master4/src/out/camel-0/safem_model4/model.ckpt"

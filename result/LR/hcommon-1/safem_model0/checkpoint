@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/user/TSMC/HL/CAFEM-master11/src/out/hcommon-1/safem_model0/model.ckpt"
+all_model_checkpoint_paths: "/home/user/TSMC/HL/CAFEM-master11/src/out/hcommon-1/safem_model0/model.ckpt"

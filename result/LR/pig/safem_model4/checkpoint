@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:/HL/LR/CAFEM-master3/src/out/pig/safem_model4/model.ckpt"
+all_model_checkpoint_paths: "E:/HL/LR/CAFEM-master3/src/out/pig/safem_model4/model.ckpt"
